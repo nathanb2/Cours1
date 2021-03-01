@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cours1</string>
+    <string name="counter">Counter</string>
+    <string name="open_result_activity">Open result activity</string>
+</resources>
