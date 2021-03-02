@@ -23,4 +23,9 @@ public class ResultActivity extends AppCompatActivity {
     private void initView() {
         ((TextView)findViewById(R.id.AR_counter_tv)).setText(String.valueOf(result));
     }
+    
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+    }
 }
