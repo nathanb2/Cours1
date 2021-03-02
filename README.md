@@ -1,10 +1,10 @@
 # Cours1
-Layout
-Activity M
-anipulation de vue 
-Gestion de click 
-Intent d'ouverture d'activity 
-Android LifeCycle
+- Layout
+- Activity 
+- Manipulation de vue 
+- Gestion de click 
+- Intent d'ouverture d'activity 
+- Android LifeCycle
 
 ressources:
 slides de 01.01 a 04.01
